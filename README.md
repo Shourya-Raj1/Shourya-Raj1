@@ -45,4 +45,4 @@
 - [MARKET_LENS](https://github.com/Shourya-Raj1/MARKET_LENS)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shourya-raj-796a60326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
