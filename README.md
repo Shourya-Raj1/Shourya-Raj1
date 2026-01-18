@@ -5,6 +5,8 @@
 - 🖥️ Passionte about technology algorithms, & clean coding practices 
 - 🌐 How to reach me: Check out my linkedin profile!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
+-  href="mailto:[shourya1234raj@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
 
 ## 🛠️ Languages & Tools
 ### Programming Languages 
