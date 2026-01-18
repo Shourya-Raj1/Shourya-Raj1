@@ -3,7 +3,8 @@
 - 🔭 I'm currently working on various web development projects
 - 💡 I'm constantly learning and exploring new technologies
 - 🖥️ Passionte about technology algorithms, & clean coding practices 
-- 🌐 How to reach me: Check out my linkedin profile! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
+- 🌐 How to reach me: Check out my linkedin profile!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
 
 ## 🛠️ Languages & Tools
 ### Programming Languages 
