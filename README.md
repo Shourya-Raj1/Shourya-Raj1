@@ -3,9 +3,10 @@
 - 🔭 I'm currently working on various web development projects
 - 💡 I'm constantly learning and exploring new technologies
 - 🖥️ Passionte about technology algorithms, & clean coding practices 
-- 🌐 How to reach me: Check out my linkedin profile!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
--  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="shourya1234raj@gmail.com" />
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
+[![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:shourya1234raj@gmail.com)
 
 ## 🛠️ Languages & Tools
 ### Programming Languages 
@@ -36,9 +37,12 @@
 
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shourya-Raj1&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shourya-Raj1&theme=dark&border_radius=6)
+
 
 ## 🏆 Top Contributed Repositories
 - [MARKET_LENS](https://github.com/Shourya-Raj1/MARKET_LENS)
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
