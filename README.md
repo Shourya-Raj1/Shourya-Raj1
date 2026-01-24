@@ -4,9 +4,6 @@
 - 💡 I'm constantly learning and exploring new technologies
 - 🖥️ Passionte about technology algorithms, & clean coding practices 
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
-[![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:shourya1234raj@gmail.com)
 
 ## 🛠️ Languages & Tools
 ### Programming Languages 
@@ -46,4 +43,9 @@
 
 ## 🏆 Top Contributed Repositories
 - [MARKET_LENS](https://github.com/Shourya-Raj1/MARKET_LENS)
+
+ ## 🔗 Connect With Me
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shourya-raj-796a60326/)
+ [![Email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail)](mailto:shourya1234raj@gmail.com)
+
 
