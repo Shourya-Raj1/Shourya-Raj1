@@ -1,8 +1,8 @@
 # Hi there, I'm Shourya Raj 👋
 ## 👦 About Me
-- 🔭 I'm currently working on various web development projects
-- 💡 I'm constantly learning and exploring new technologies
-- 🖥️ Passionte about technology algorithms, & clean coding practices 
+- 🔭 I'm currently working on various web development projects.
+- 💡 I'm constantly learning and exploring new technologies.
+- 🖥️ Passionte about technology algorithms, & clean coding practices. 
 
 
 ## 🛠️ Languages & Tools
